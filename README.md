@@ -238,9 +238,7 @@ cd stablediffusion
 Download the checkpoint from [here](https://huggingface.co/stabilityai/stable-diffusion-2/blob/main/768-v-ema.ckpt).
 You must be logged in to download the file.
 
-If you have windows 11 you can easily copy the from C-drive into the Ubuntu mount storage.
-
-If you are using an older OS, then you are on your own.
+If you have windows 11/10 you can easily copy the from C-drive into the Ubuntu mount storage.
 
 #### 4.3.2 Copy ckpt into repo folder
 
