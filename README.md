@@ -162,6 +162,8 @@ sudo dpkg -i cuda-repo-wsl-ubuntu-12-0-local_12.0.0-1_amd64.deb
 sudo cp /var/cuda-repo-wsl-ubuntu-12-0-local/cuda-*-keyring.gpg /usr/share/keyrings/
 sudo apt-get update
 sudo apt-get -y install cuda
+sudo apt-get install libcudnn8
+sudo apt-get install libcudnn8-dev
 ```
 ### 3.2 Install NVIDIA container toolkit (In Ubuntu)
 https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker
