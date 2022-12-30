@@ -2,6 +2,9 @@
 
 ## Overview
 
+A guide for installing the many pre-requisites for running Stable Diffusion through WSL.
+This guide exists because I refuse to install conda on my computer, but I can accept installing it in WSL.
+
 ## 1. Install latest NVIDIA drivers (Windows)
 
 Install latest NVIDIA drivers from [here](https://www.nvidia.com/download/index.aspx).
